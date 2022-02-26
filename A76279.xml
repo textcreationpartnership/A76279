@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Be merry and wise, or A seasonable word to the nation. Shewing the cause, the growth, the state, and the cure of our present distempers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76279</idno>
+            <idno type="STC">Wing B1555</idno>
+            <idno type="STC">Thomason E765_6</idno>
+            <idno type="STC">ESTC R17569</idno>
+            <idno type="EEBO-CITATION">99860224</idno>
+            <idno type="PROQUEST">99860224</idno>
+            <idno type="VID">112341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E765[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Be merry and wise, or A seasonable word to the nation. Shewing the cause, the growth, the state, and the cure of our present distempers.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed March 13. in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant of the edition lacking "March. 13." in imprint.</note>
+                  <note>Annotation on Thomason copy: "March. 14. 1659"; the imprint year has been crossed out and replaced with "1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112341:1" rendition="simple:additions"/>
+            <p>BE MERRY AND WISE, OR A Seaſonable Word TO THE NATION.</p>
+            <p>SHEWING The Cauſe, the Growth, the State, and the Cure of our preſent Diſtempers.</p>
+            <p>
+               <add>March. 14. 1659</add> 
+               <hi>LONDON,</hi> Printed <hi>March</hi> 13. in the year, 1660. <add>1659</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112341:2"/>
+            <head>A Seaſonable Word, &amp;c.</head>
+            <p>I Do not write out of an itch of <hi>Scribling,</hi> or to ſupport a <hi>Faction</hi> my <hi>Duty</hi> bids me write.—Nor do I love <hi>Hard</hi> words, or <hi>Many Plain,</hi> and <hi>Few,</hi> ſuit all <hi>Capacities</hi> and <hi>Leaſures.</hi> I would be <hi>Read</hi> by <hi>all,</hi> and <hi>Underſtood</hi> by <hi>all:</hi> for my Buſineſſe extends to all.—Not to ſpend time in <hi>Complement,</hi> or <hi>Apology;</hi> The <hi>Reader's Wiſe<g ref="char:EOLhyphen"/>dom,</hi> or the <hi>Authors Weakneſſe,</hi> is not the Queſtion. The Nation is in <hi>Diſ<g ref="char:EOLhyphen"/>treſs,</hi> and every honeſt Engliſh man muſt lend his hand to ſave it. Nay, <hi>That</hi> muſt be done <hi>Quickly</hi> too, and <hi>Vigorouſly; Delay</hi> is <hi>Mortal.</hi> Can any thing be more <hi>Ridiculous,</hi> then to ſtand <hi>Formalizing,</hi> in a Caſe, where 'tis impoſſible to be too <hi>early,</hi> or too <hi>Zealous.</hi> The <hi>event</hi> of things takes up our thoughts, more then the <hi>Reaſon</hi> of them; what <hi>News,</hi> more than what <hi>Remedy:</hi> As if it concerned us rather to know, <hi>whoſe Fools and Slaves we ſhall be next,</hi> than to be ſuch no longer. That which completes the <hi>wonder,</hi> and the <hi>Overſight,</hi> is, That the Miſeries we ſuffer, were before hand, as eaſily, to be <hi>Fore-ſeen</hi> and <hi>Prevented,</hi> as they are now to be <hi>Felt:</hi> and we are only to look <hi>Backward,</hi> to take a perfect meaſure of the <hi>Fu<g ref="char:EOLhyphen"/>ture;</hi> ſo obvious, and formal is the Method, that leads to our Deſtructi<g ref="char:EOLhyphen"/>on. If we are not in Love with <hi>Beggery,</hi> and <hi>Sondage;</hi> let us at laſt bethink our ſelves of Freedom, and from a due Enquiry into the <hi>Riſe,</hi> the <hi>Growth,</hi> and <hi>preſent State of our Calamities,</hi> learn to be <hi>wiſe,</hi> and <hi>Happy,</hi> for the time to come.</p>
+            <p>It may be obſerved, that ſince <hi>Church-men</hi> dabled in <hi>Politiques,</hi> and <hi>Stateſmen</hi> in <hi>Divinity, Law</hi> and <hi>Religion</hi> have been ſtill ſubjected to the <hi>Sword:</hi> and in effect, <hi>thoſe ſame Excurſions, and Adulterate mixtures, are but the workings of a Party already in motion toward that end.</hi> He that deſigns a <hi>Change</hi> of <hi>Government,</hi> muſt begin by impoſing a <hi>Deluſion</hi> up<g ref="char:EOLhyphen"/>on the <hi>People:</hi> and whatſoever is <hi>Neceſſary</hi> to <hi>his Purpoſe,</hi> muſt be <hi>Ac<g ref="char:EOLhyphen"/>commodate</hi> to <hi>their Humour.</hi>—The <hi>Pulpet,</hi> by <hi>falſe Gloſſes,</hi> and <hi>Puzzling distinctions,</hi> under the <hi>doctrine</hi> of <hi>Conditionate Obedience, ſugg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſting Li<g ref="char:EOLhyphen"/>berty, couſens</hi> the <hi>Multitude</hi> into a <hi>Rebellion. Oaths</hi> and <hi>Covenants,</hi> are but like <hi>Jugglers knots, Faſt,</hi> or <hi>Looſe, as the Prieſt pleaſes</hi>—The <hi>weak<g ref="char:EOLhyphen"/>er</hi> ſort being thus prepared, and poyſon'd, by a <hi>Seditious Clergy;</hi> 'tis then the <hi>Statesman</hi>'s part to puſh thoſe Mutinous <hi>Inclinations</hi> into <hi>Action:</hi> and to <hi>divide</hi> the Cauſe betwixt <hi>Conſc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence,</hi> and <hi>Property, the better to involve all Interests in the Quarrel.</hi>—Under the Maſque of <hi>Piety,</hi> and <hi>Publique<g ref="char:EOLhyphen"/>neſſe of Spirit;</hi> of <hi>Holy men,</hi> and <hi>Patriots;</hi> the <hi>Crafty</hi> cheat the <hi>Simple;</hi> en<g ref="char:EOLhyphen"/>gaging
+<pb n="2" facs="tcp:112341:3"/>by thoſe ſpecious pretenſes, the <hi>Raſh, miſ-judging people,</hi> (with <hi>good Intentions;</hi> but wanting <hi>Care</hi> and <hi>Skill</hi>) in <hi>Sacrilege,</hi> and <hi>Treaſon.</hi>
+            </p>
+            <p>This was the very <hi>Root,</hi> and this hath been the <hi>proceſs</hi> of our Evils. Under the Notion of <hi>God's glory,</hi> the <hi>Safety,</hi> and the <hi>Honour</hi> of the <hi>King:</hi>—the <hi>Fundamental Lawes,</hi> and <hi>Freedoms</hi> of the <hi>people:</hi>—the <hi>Privilege</hi> of <hi>Parliaments,</hi> &amp;c. the Kingdom was gulled into a <hi>Complyance</hi> with an <hi>Ambitious,</hi> and <hi>Schiſmatical Faction.</hi> The main Pretenſe, was the <hi>Aſsertion of the Subjects Legal Rights, against the grand Prerogative;</hi> and That,—directed only to the <hi>Limitation</hi> of an <hi>Intended, Arbitrary Pow<g ref="char:EOLhyphen"/>er:</hi>—the <hi>Regulation</hi> of ſuch and ſuch <hi>Miſgovernments, &amp;c.</hi>—and all this—<hi>Saving their Allegiance to His Sacred Majeſty; <hi>whoſe</hi> Perſon, Crown, and Dignity, <hi>th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y had ſo</hi> often, <hi>and ſo</hi> deeply ſworn to maintain.</hi>—This was a Bait ſo <hi>Popular,</hi> it could not fail of drawing in a <hi>Party;</hi> and <hi>That produced a warr,</hi>—The Formal <hi>Story</hi> of the Quarrel, is little to my Purpoſe: the <hi>Logique</hi> of it, <hi>Leſſe,</hi>—<hi>How, by the ſame Authority of Text, and Law, both King and People, could be Juſtified, one againſt th' other;</hi> I meddle not. Let it ſuffice; that <hi>after 6. years Conflict,—a vaſt profuſion of Blood, and Treaſure,</hi> —<hi>The King, a Priſoner,</hi>—<hi>and his whole party ſcattered, and diſarmed,</hi> the <hi>Commons</hi> found themſelves diſpos'd to <hi>end</hi> our Troubles; and <hi>paſſed a vote <hi>to Treat with his Majeſty in order to a ſettlement.</hi>
+               </hi> This met with little oppoſiti<g ref="char:EOLhyphen"/>on, except from thoſe, who having <hi>Gorged</hi> themſelves <hi>already</hi> upon the <hi>publique ruine,</hi> were not yet ſatisfied, without their <hi>Soveraigns Blood;</hi>—<hi>The death of Monarchy it ſelf;</hi> —<hi>and the ſubjecting of a Tame, and Slaviſh People, to a Conventicle of Regicides.</hi> There were not <hi>many</hi> of ſo deep a Tincture; but what theſe <hi>few</hi> could not effect by <hi>number,</hi> they did by <hi>Force.</hi> For, <hi>upon the 6th. of Decemb.</hi> 1648. Sir <hi>Hardreſſe Waller, Pride,</hi> and <hi>Hewſon,</hi>—<hi>Seized,</hi> and <hi>impriſoned</hi> 41. <hi>of the Commons Houſe;</hi>—<hi>Clapp'd Guards upon all paſſes leading to it;</hi>—Some 160. more, were given in upon a <hi>Liſt</hi> to thoſe that kept the Door, <hi>with an expreſſe directi<g ref="char:EOLhyphen"/>on from ſeveral Leading Members to oppoſe their entrance;</hi>—a matter of 40. <hi>more withdrew,</hi> for fear of violence. Their Crime was only the car<g ref="char:EOLhyphen"/>rying of a <hi>Vote for Peace</hi> already mentioned) the day before. This Acti<g ref="char:EOLhyphen"/>on was ſo Enormous, that the very <hi>Contrivers</hi> of it, were aſhamed to own it: transferring that upon the <hi>Army-Officers,</hi> which was done by their <hi>own appointment.</hi> They paſſed however a <hi>Formal diſallowance of the violence, and ordered their diſcharge;</hi> which yet the <hi>Officers refuſed</hi> (upon a <hi>Combination</hi> now moſt evident)—Obſerve this,</p>
+            <p>
+               <hi>That, which in</hi> 48. <hi>they told us was an Act of the Army-Officers, in</hi> 59. <hi>they call a Judgement of Parliament; and they juſtifie and continue that very ſecluſion, by a Vote of Jan.</hi> 5.59.—<hi>Which they themſelves Condemned and
+<pb n="3" facs="tcp:112341:3"/>Diſcharged by ſeveral Orders in Dec.</hi> 48. The <hi>Particulars</hi> of theſe <hi>Tranſac<g ref="char:EOLhyphen"/>tions,</hi> are excellently delivered <hi>by Mr. Prynne, (the Honour of the age) in his true and perfect Narrative,</hi> as alſo, <hi>in the Declaration of the true ſtate of the Secluded Members, and in the Hiſtory of Independency,</hi> (two other choice pieces)</p>
+            <p>Return we now, to the great <hi>Test</hi> of the <hi>Spirits,</hi> and <hi>Deſigns</hi> of the ſe<g ref="char:EOLhyphen"/>veral <hi>Partyes,</hi> and <hi>Members</hi> of the <hi>Houſe,</hi> and from that Judgement, and <hi>Diſcrimination</hi> of <hi>Perſons,</hi> and <hi>Humours,</hi> we may learn ſeaſonably to pro<g ref="char:EOLhyphen"/>vide againſt After-claps. This <hi>Blow brake the Houſe of Commons into Three Pieces. One Party,</hi>—<hi>adhered to the Vote,</hi>— <hi>oppoſed the Violence;</hi>—<hi>Declared againſt it,</hi>—<hi>Claimed from time to time, their own and the Peoples Rights,</hi> —<hi>Pleaded the Covenant, and their Declarations, and ſtood it out. The Second ſort,</hi> was not ſo well prepar'd for <hi>Martyrdom;</hi> a kind of <hi>Barnacle,</hi> neither <hi>Fiſh,</hi> nor <hi>Fleſh.</hi> This was a Party, that <hi>Flew off at firſt, but ſoon retracted;</hi>—<hi>Hearded again, and went along for Company;</hi> my Charity perſwades me well, of diverſe of them, and that they mixed, rather in <hi>hopes</hi> to <hi>moderate the Reſt, then in Deſign to ſtrengthen them:</hi> A Party rather <hi>Weak,</hi> and <hi>Paſsive,</hi> than <hi>Malicious.</hi> But nothing can <hi>excuſe</hi> thoſe <hi>ſons of Belial, the perjur'd Remnant;</hi> no, nor <hi>expreſs</hi> them—Beſide their <hi>Oathes</hi> and <hi>Covenant,</hi> they have above an hundred times, in <hi>Printed Declarations,</hi> renounced the very <hi>Thought</hi> of what they ſince have executed. <hi>Read the Exact Collections, <hi>We are</hi>
+               </hi> (ſay they) <hi>ſo far from altering the Fundamental Conſtitution, and Government of this Kingdom, by King, Lords, and Com<g ref="char:EOLhyphen"/>mons, <hi>That we have only deſired, that with the conſent of the King, ſuch Powers may be ſetled in the Two Houſes, without which, we can have no Aſ<g ref="char:EOLhyphen"/>ſurance, &amp;c.</hi>
+               </hi> Theſe are the very words of their Declaration, <hi>April</hi> 17. 1646. <hi>publiſhed by the Houſe of Commons, alone, toward the end of the war, and most remarquably entituled,</hi>—A <hi>Declaration of their True Intenti<g ref="char:EOLhyphen"/>ons, concerning the Antient Government of the Nation, and ſecuring the People againſt all Arbitrary Government.</hi>—(Let this Q<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otati<g ref="char:EOLhyphen"/>on ſerve for All, leſt I exceed my Limits. Nor to inſiſt upon things <hi>known,</hi> and <hi>publique.</hi>—<hi>How faithfully theſe People have managed their Ori<g ref="char:EOLhyphen"/>ginal Truſt,</hi>—<hi>how ſtrictly they have kept their Oaths and Promiſes,</hi> —<hi>how tenderly they have obſerved the Laws, and aſſerted our Freedoms;</hi>—<hi>how Poor they have made themſelves, to make us Rich;</hi>—<hi>how Graciouſly they have aſſumed the Leg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſlat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve power; and then, how modeſtly they have exerci<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it:</hi>—In fine; —How <hi>Free,</hi> &amp; <hi>happily</hi> we <hi>lived under their Govern<g ref="char:EOLhyphen"/>ment; till Oliver play'd Rex among them, and threw them out by a Trick of their own Teaching. This was in April</hi> 1653. <hi>It were worth the while, to en<g ref="char:EOLhyphen"/>quire into the good they did us, during that 6 years Seſsion,</hi> but that I leave to <hi>Needham.</hi> Nor ſhall I far examine the <hi>Protectors Reign;</hi>—by whoſe
+<pb n="4" facs="tcp:112341:4"/>
+               <hi>advice;</hi>—by what <hi>aſsistance;</hi>—or by what <hi>Laws he Ruled?</hi>—how many of our late <hi>Republicans</hi> forgate themſelves, and <hi>ſware Alle<g ref="char:EOLhyphen"/>giance,</hi> to a <hi>ſingle Perſon.</hi> How many <hi>things like Parliaments,</hi> he <hi>diſperſ<g ref="char:EOLhyphen"/>ed,</hi> (for the Army has gotten a <hi>Jadiſh Trick,</hi> and will hardly leave it)—It is enough; at laſt, he <hi>Dyed. Dyed,</hi>—in Deſpight of <hi>Prieſts,</hi> and <hi>Poets; Goodwin,</hi> and <hi>Waller:</hi> the <hi>former telling him from Heaven, that he ſhould ſcape that Fit,</hi> the <hi>Other</hi> telling us,—(ſo needleſſely.)—</p>
+            <p>
+               <hi>His Highneſſe, having other things to think on, left his ſucceſſor doubtfull,</hi> till (as they ſay) His <hi>Secretary, (Then, one of <hi>Ours,</hi> now)</hi> with <hi>Goodwin, (His Prophetique Confeſſour) Swore his ſon Richard into the Protectorſhip. But he (Good Gentleman)</hi> did not much <hi>hurt; but peaceably reſigned to Fleetwood, and Disborough;</hi> (not a word of Sir <hi>Henry Vane,</hi> for he deſires to be <hi>private</hi>) and <hi>They,</hi> quite at a <hi>Loſſe,</hi> for want of <hi>Brains</hi> and <hi>Courage, call'd in the Fag-end of the old Houſe, to their aſsistance:</hi> So that thoſe Members, which <hi>Dived, in April</hi> 53. came up again, <hi>upon the</hi> 7th. <hi>of May,</hi> 59. and acted as impetuouſly as ever: Till they were, once again <hi>unſeated,</hi> by the <hi>Army; the</hi> 13. <hi>of Octob. last,</hi> and then, <hi>the Committee of Wallingford houſe was inveſted with the Supreme Authority:</hi> ('Tis but a <hi>ſlippery Title,</hi> that of the <hi>Sword</hi>) This Change, gave <hi>General Monk</hi> oc<g ref="char:EOLhyphen"/>caſion to ſhew his <hi>Charity</hi> to his <hi>Native Country;</hi> by whoſe <hi>Generoſity,</hi> and <hi>Conduct,</hi> the <hi>Honeſt</hi> and <hi>Suffering Party</hi> was <hi>relieved,</hi> and the <hi>Phana<g ref="char:EOLhyphen"/>tique Army, diſperſed,</hi> without <hi>Blood.</hi> Hereupon, the Souldjery tack'd about once again;—<hi>Lamented their Back ſlidings; and on the</hi> 26th. <hi>of Decemb. following, the Good-Old-Cauſe men, re-enthron'd themſelves:</hi> more eager now, than formerly, againſt the <hi>Re-admiſsion of the ſecluded Members.</hi> This barbarous, and <hi>Arbitrary</hi> proceeding, put the whole Nation upon a neceſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of procuring <hi>a Free and Full Repreſentative:</hi> to whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h end, they propoſed Modeſtly, and Fairly, <hi>the Reſtoring of the Ex<g ref="char:EOLhyphen"/>cluded Members, and filling up the Houſe;</hi> or elſe, the <hi>Liberty</hi> of a <hi>New</hi> and <hi>Legal choice. For bringing Letters to this purpoſe,</hi> Sir <hi>Robert Pye,</hi> and Ma<g ref="char:EOLhyphen"/>jor <hi>Fincher were impriſoned.</hi> This was an Inſolence too groſſe, to doe much Miſchief, but to themſelves. <hi>Are theſe the men,</hi> (the People cry<g ref="char:EOLhyphen"/>ed) <hi>that put the King to death, only upon pretence of a Deſign, <hi>to erect and uphold in himſelf, an unlimited, and Tyrannical power, to Rule according to his w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll and to overthrow the Rights, and Liberties of the People; Yea, to take away, and make void the Foundations thereof, and of all redreſſe, and Remedy of Miſ-Government, which by the Fundamental conſtitutions o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this Kingdom,</hi>
+               </hi> were reſe ved on the Peoples behalf, <hi>in the Right and pow<g ref="char:EOLhyphen"/>er of</hi> FREQUEN<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> AND SUCCESSIVE PARLIAMENTS? <hi>(theſe are the words of the charge)</hi>—That which was <hi>Treaſon</hi> in our <hi>Lawfull Prince,</hi> how coms it to be <hi>Law,</hi> now with <hi>theſe Fellows?</hi> They
+<pb n="5" facs="tcp:112341:4"/>took away the <hi>Kings life,</hi> for but <hi>Intending, the very thing they Act;</hi> and we are to be <hi>Hang'd,</hi> for <hi>Asking</hi> only That, they <hi>ſware</hi> they <hi>Fought for.</hi> No;—they are a <hi>Pack of Cheats;</hi> they <hi>Murthered Him,</hi> that they might <hi>Rule themſelves.</hi> The <hi>Plot</hi> was grown ſo <hi>Rank,</hi> the <hi>Commune-People ſmelt it;</hi> and without more ado, <hi>aſſociated, to free themſelves, from an Infamous, and perpetual Bondage.</hi> Witneſſe that <hi>Union,</hi> in their <hi>Declarations,</hi> both of <hi>Demand,</hi> and <hi>Reſolution;</hi> againſt the <hi>Equity</hi> whereof, no man hath hi<g ref="char:EOLhyphen"/>therto pretended the leaſt <hi>Objection.</hi>—<hi>The Supreme Trifle;</hi> perceiving, an <hi>Univerſal Application</hi> to the <hi>General,</hi> in his Paſſage; and <hi>all,</hi> ſpeaking the <hi>ſame Senſe;</hi> Finding withall, that his <hi>Excellence ſuſpended,</hi> till he might hear <hi>Both Parties;</hi> and <hi>Conſcious</hi> to <hi>themſelves,</hi> of no Imaginable <hi>Reaſon</hi> to oppoſe; Beſide:—Seeing themſelves <hi>Declined,</hi> and <hi>Hated;</hi>—Nay, and <hi>Endangered, by a Peremptory Agreement of the Nation;</hi>—They did, at laſt, moſt graciouſly deſcend to promiſe us a <hi>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Repreſen<g ref="char:EOLhyphen"/>tative;</hi> but no <hi>Secluded Members,</hi> to be <hi>admitted,</hi> nor, in effect, any other then <hi>Phanatiques.</hi>
+            </p>
+            <p>His <hi>Excellency,</hi> well weighing, what was Reaſoned, <hi>pro &amp; con: made way for the Return of the Secluded Members.</hi> This <hi>Juſtice,</hi> brake the neck of a Deſign, juſt then on Foot. This is the ſhort on't, —<hi>the People were to be held at</hi> Gaze, in expectation of a further ſatisfaction; till thoſe Troops <hi>which the Backſide had ordered to that purpoſe, ſhould have ſerſed all the conſiderable Perſons of the Kingdom.</hi> Nay, they were <hi>impudent</hi> e<g ref="char:EOLhyphen"/>nough, to tempt the <hi>General</hi> himſelf into a Complication with them: But he was too diſcreet, not to diſtinguiſh where to <hi>obſerve,</hi> and where to leave them. In fine, <hi>That providence, which ſtills the raging of the Sea, and the madneſſe of the People,</hi> hath put a <hi>check</hi> to their <hi>Impetuous,</hi> and <hi>Brutiſh Fury.</hi>
+            </p>
+            <p>Next to our <hi>Gratitude</hi> to <hi>Heaven,</hi> let's have a Care, not to be want<g ref="char:EOLhyphen"/>ing in point of <hi>prudence</hi> to our <hi>Selves. Nothing undoes us but Security.</hi> We ſee, <hi>who</hi> are our <hi>Friends,</hi> and <hi>who</hi> our <hi>Enemies; whom</hi> we <hi>may</hi> truſt, and whom we <hi>muſt not.</hi> We have paid <hi>dear</hi> for our <hi>Experience,</hi> and, ſure, we have a Title to the <hi>Benefit</hi> of it. We muſt look <hi>Back,</hi> and learn, from <hi>Thence,</hi> the manage of the <hi>Future.</hi>
+            </p>
+            <p>It is a tedious while, this Nation ha's been toſs'd betwixt <hi>two Facti<g ref="char:EOLhyphen"/>ons; One</hi> in the <hi>Army,</hi> the <hi>Other</hi> in the <hi>Counſel Both,</hi> well enough A<g ref="char:EOLhyphen"/>greed to deſtroy <hi>Us,</hi> but Jealous ſtill, <hi>One</hi> of the <hi>Other,</hi> as <hi>Don</hi> ſayes of <hi>Ignatius,</hi> concerning his Competitor in Hell, <hi>He was content he ſhould be damn'd, but loath he ſhould govern. That's all the Quarrel:</hi> the <hi>Vizor</hi> of <hi>Religion,</hi> is thrown aſide long ſince. The <hi>Conventicle cheats the</hi> Sould<g ref="char:EOLhyphen"/>jour <hi>This day; and he falls</hi> upon the <hi>Rump,</hi> the <hi>next.</hi> In ſhort, they do <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her, at the <hi>Publique Charge;</hi> they may <hi>ſnarle</hi> where
+<pb n="6" facs="tcp:112341:5"/>they pleaſe, but they <hi>bite</hi> none but <hi>Us,</hi> and at the worſt <hi>forgive their Fellow-Theeves for robbing Honeſt men.</hi> This hath been their practice near theſe <hi>dozen years.</hi> Are we not yet convinc'd, that 'tis impoſſible it ſhould be otherwiſe, while the <hi>ſame people Govern us, with the ſame Aym, and Bound up by no other Laws, than their Own Wills?</hi> I do not preſſe any <hi>Reſiſtance, now;</hi> but, certainly, a <hi>Readineſſe to protect Honester men,</hi> in Caſe of an <hi>Attempt,</hi> were not amiſſe. We ſee, how dirtily they have uſed the <hi>General,</hi> and how unworthily their Inſtruments have laboured the <hi>Army</hi> into a <hi>direct Tumult;</hi> And all this, <hi>in order to a New Violence up<g ref="char:EOLhyphen"/>on the Houſe.</hi> We ſee, what <hi>Juggling</hi> is uſed in the MILITIA: as <hi>foyſting</hi> in <hi>falſe Lists, to caſt the ſtrength of the Nation into the hands of mean, and Factious Perſons.</hi> What <hi>Induſtry,</hi> to hold us ſtill <hi>unſetled.</hi> by throwing in <hi>Impertinent, and dangerous Scruples,</hi> to <hi>divert</hi> (at the <hi>Faireſt</hi>) if not <hi>disturb</hi> the long deſired <hi>Peace</hi> we pray for.—He that ha's ei<g ref="char:EOLhyphen"/>ther <hi>Honor</hi> in his <hi>Blood,</hi> or <hi>Honeſty</hi> in his <hi>Heart,</hi> is reproached with a <hi>King</hi> in his <hi>Belly.</hi>—Then, for the <hi>Qualifications,</hi> theſe goodly Squires would have thruſt upon us, are they not pleaſant? <hi>One</hi> Man of <hi>Forty</hi> ſhall be allowed to <hi>Vote,</hi> or <hi>ſit,</hi> and the other 39. muſt call <hi>That</hi> a <hi>Free-Parlia<g ref="char:EOLhyphen"/>ment,</hi> and <hi>ſwear, it Repreſents the People.</hi>—We are not ſo <hi>Blind</hi> yet, nor ſo <hi>Forgetfull,</hi> as not to <hi>ſee,</hi> and <hi>know,</hi> ſome <hi>Foxes,</hi> and ſome <hi>Aſſes,</hi> in the <hi>Medly;</hi> All are not <hi>Saints</hi> we <hi>call</hi> ſo.—<hi>We do remember, who they were that ruled in</hi> 48. and we are <hi>ſenſible,</hi> what <hi>they</hi> would do <hi>still,</hi> if they had <hi>Power.</hi>—<hi>We know, who brought in, who; but the Market's raiſed; our Heads will not off now at Fifty ſhillings a Hundred, as formerly.</hi> In fine, let the <hi>General, the ſecluded Members, and the Honeſt Souldjers, live long, happily,</hi> and <hi>beloved;</hi> and let the <hi>Reſt</hi> take their <hi>Fortune.</hi> I could only wiſh his <hi>Excellency</hi> had been a little civiller to Mr. <hi>Milton;</hi> for, juſt as he had finiſhed his <hi>Model of a Common-wealth,</hi> directing in theſe very terms, the <hi>Choyce <hi>men not addicted to a Single Perſon, or Houſe of Lords, and the work is done.</hi> In come the ſecluded Members, and ſpoyl his Pro<g ref="char:EOLhyphen"/>ject.</hi> To this <hi>admirable diſcovery,</hi> he ſubjoyns a <hi>ſuitable Propoſition,</hi> in fa<g ref="char:EOLhyphen"/>vour of the <hi>late ſitting Members,</hi> and this is it; having premiſed the <hi>Abi<g ref="char:EOLhyphen"/>lities</hi> and <hi>Honeſty, deſirable in Ministers of State,</hi> he recommends the <hi>Rumpers</hi> to us as ſo <hi>Qualified; adviſes us to Quit that fond Opinion of ſuc<g ref="char:EOLhyphen"/>ceſs<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve Parliaments;</hi> and ſuffer the Perſons then in Power, <hi>to perpe<g ref="char:EOLhyphen"/>tuate themſelves under the name of a Grand, or General Counſell,</hi> and to rule <hi>us,</hi> and our <hi>Heirs</hi> for ever.—It were great pirty theſe Gen<g ref="char:EOLhyphen"/>tlemen ſhould loſe their Longings: One word, and I have done. We live in daily Expectation of Writs for another Seſſion, if they leave us as free, as they found us, 'tis well: if not, 'tis but to turn the <hi>Tables,</hi> and try their menage of a Loſing Game.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
